@@ -1,6 +1,6 @@
 '''
 Simple Tic Tac Toe Using Python 
-Programmed by Patorn-J
+Coding by Patorn-J
 Date 6-Nov-2019
 '''
 
